@@ -1,7 +1,7 @@
 Module 61CSE215: JAVA OOP - WS2024  
 Supervised by Dr. Tran Hong Ngoc  
 
-Group Members:
+Group Members:  
 Vũ Mạnh Nghĩa - 10422053  
 Lương Tiểu Cương - 10422089  
 Nguyễn Thiên Nguyên - 10422059  
@@ -17,8 +17,8 @@ Final submission includes:
 Submission:
 1. Full report is submitted on the ILIAS website.
 2. Source code (code + database) is above, please download and set up following the intrucstion on the Part 4 to set up the environment, and watch the video demo on Part 3 to know more how our system works.
-3. Demo:
-![video](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)
+3. Demo:  
+[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing))]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)).  
 4. Guideline for using plugins or addins or new components:  
 
 To run source code:  
