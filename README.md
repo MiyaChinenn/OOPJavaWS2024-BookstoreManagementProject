@@ -18,7 +18,7 @@ Submission:
 1. Full report is submitted on the ILIAS website.
 2. Source code (code + database) is above, please download and set up following the intrucstion on the Part 4 to set up the environment, and watch the video demo on Part 3 to know more how our system works.
 3. Demo:  
-[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)  
+[(https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)  
 4. Guideline for using plugins or addins or new components:  
 
 To run source code:  
@@ -30,4 +30,4 @@ To run source code:
 - Go to File -> Project Structure -> Modules -> Dependencies -> Add (‘+’ symbol) -> add JARs or Directories. Then locate under the project folder scr -> lib. Add the JAR files in this folder. 
 - Run the source code from BookStoreManagementApplication.java. This is where the ‘main’ method locates.
 5. Slide (pdf and pptx): Canva Website:  
-[![PowerPoint](https://www.canva.com/design/DAGWJTjildA/Q8kt3_99uOb5YwTqGRaMFQ/view?utm_content=DAGWJTjildA&utm_campaign=designshare&utm_medium=link&utm_source=editor])  
+[(https://www.canva.com/design/DAGWJTjildA/Q8kt3_99uOb5YwTqGRaMFQ/view?utm_content=DAGWJTjildA&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.canva.com/design/DAGWJTjildA/Q8kt3_99uOb5YwTqGRaMFQ/view?utm_content=DAGWJTjildA&utm_campaign=designshare&utm_medium=link&utm_source=editor)  
