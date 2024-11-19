@@ -1,11 +1,11 @@
-Module 61CSE215: JAVA OOP - WS2024
-Supervised by Dr. Tran Hong Ngoc
+Module 61CSE215: JAVA OOP - WS2024__
+Supervised by Dr. Tran Hong Ngoc__
 
-Group Members:
-Vũ Mạnh Nghĩa - 10422053
-Lương Tiểu Cương - 10422089
-Nguyễn Thiên Nguyên - 10422059
-Nguyễn Hoàng Yến Ngọc - 10422056
+Group Members:__
+Vũ Mạnh Nghĩa - 10422053__
+Lương Tiểu Cương - 10422089__
+Nguyễn Thiên Nguyên - 10422059__
+Nguyễn Hoàng Yến Ngọc - 10422056__
 
 Final submission includes:
 1. Full report
