@@ -16,10 +16,14 @@ Final submission includes:
   
 Submission:
 1. Full report is submitted on the ILIAS website.
-2. Database is [here]([https://drive.google.com/file/d/1Rc1nMUdm86JHgRHMd1rVyiSM0yw9D0eC/view?usp=sharing](https://drive.google.com/file/d/17BXtqlFH4tfAd84tCacH7FqNwQMeMSdZ/view?usp=sharing)).  And Source code is [here](https://drive.google.com/file/d/1Rc1nMUdm86JHgRHMd1rVyiSM0yw9D0eC/view?usp=sharing), please download the code and set up following the intrucstion on the Part 4 to set up the environment, and watch the video demo on Part 3 to know more how our system works.  
+2. Database:  
+[https://drive.google.com/file/d/1Rc1nMUdm86JHgRHMd1rVyiSM0yw9D0eC/view?usp=sharing](https://drive.google.com/file/d/17BXtqlFH4tfAd84tCacH7FqNwQMeMSdZ/view?fbclid=IwZXh0bgNhZW0CMTEAAR0hw5Pzrrv4Pt12GnrAESjCJ-_F4kKBH7W6MPSr5VAa9ICx2eI2nzqL-mo_aem_EasfdofU_q5_3IDkjY5cBw)  
+Source code:  
+[Download here](https://drive.usercontent.google.com/download?id=1Rc1nMUdm86JHgRHMd1rVyiSM0yw9D0eC&export=download)  
+Download the code and set up following the intrucstion on the Part 4 to set up the environment, and watch the video demo on Part 3 to know more how our system works.  
 
 3. Demo:  
-[(https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)  
+[https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing](https://drive.google.com/file/d/1fWaM7kwMU0deziHt-8a0Co3AjXMxPAu1/view?usp=sharing)  
 4. Guideline for using plugins or addins or new components:  
 
 To run source code:  
