@@ -1,0 +1,36 @@
+.white-background {
+    -fx-background-color: white;
+}
+
+.transparent-background {
+    -fx-background-color: transparent;
+}
+
+.light-blue-background {
+    -fx-background-color: #a2c5e7;
+}
+
+.border {
+    -fx-border-width: 2px;
+    -fx-border-color: #09538c;
+    -fx-border-radius: 5px;
+}
+
+.radius {
+    -fx-background-radius: 5px;
+}
+
+.shadow {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,1), 5, 0, 0, 0);
+}
+
+.add-to-cart-button {
+    -fx-background-color: #09538c;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+    -fx-text-fill: white;
+}
+
+.add-to-cart-button:hover {
+    -fx-background-color: #397eb4;
+}

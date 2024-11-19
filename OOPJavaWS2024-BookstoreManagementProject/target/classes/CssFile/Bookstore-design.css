@@ -1,0 +1,55 @@
+.gradient-left-right-background {
+    -fx-background-color: linear-gradient(to bottom , #397eb4, #09538c);
+}
+
+.gradient-top-down-background {
+    -fx-background-color: linear-gradient(to top, #397eb4, #09538c);
+}
+
+.blue-background {
+    -fx-background-color: #09538c;
+}
+
+.transparent-background {
+    -fx-background-color: transparent;
+}
+
+.white-background {
+    -fx-background-color: white;
+}
+
+.radius {
+    -fx-background-radius: 5px;
+}
+
+.home-button {
+
+}
+
+.home-button:hover {
+    -fx-cursor: hand;
+}
+
+.shadow {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 5, 0, 0, 0);
+}
+
+.buttons {
+    -fx-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.buttons:hover {
+    -fx-background-color: #e5e9ec;
+}
+
+.button-search {
+    -fx-background-color: #09538c;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.button-search:hover {
+    -fx-background-color: #1891e7;
+}

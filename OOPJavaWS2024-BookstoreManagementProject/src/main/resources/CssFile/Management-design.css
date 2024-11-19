@@ -1,0 +1,72 @@
+.gradient-background {
+    -fx-background-color: linear-gradient(to right , #397eb4, #09538c);
+}
+
+.white-background {
+    -fx-background-color: white
+}
+
+.sign-out-button {
+    -fx-background-color: transparent;
+}
+
+.sign-out-button:hover {
+    -fx-background-color: #1891e7;
+}
+
+.menu-button {
+    -fx-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+    -fx-text-fill: #1271b9;
+}
+
+.menu-button:hover {
+    -fx-background-color: #e5e9ec;
+}
+
+.radius {
+    -fx-background-radius: 5px;
+}
+
+.black-background {
+    -fx-background-color: black;
+}
+
+
+
+.add-clear-update-delete-button {
+    -fx-background-color: #1271b9;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+}
+.add-clear-update-delete-button:hover {
+    -fx-background-color: #1891e7;
+}
+
+.shadow {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.5), 5, 0, 0, 0);
+}
+
+.table-view {
+    -fx-border-radius: 5px;
+    -fx-border-color: #397eb4;
+    -fx-border-width: 2px;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #1271b9;
+    /*-fx-background-insets: 0 0 0 0;*/
+}
+
+.table-view .column-header, .filter {
+    -fx-background-color: transparent;
+    -fx-size: 45px;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
